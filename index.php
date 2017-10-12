@@ -1,3 +1,3 @@
 <?php
 
-echo 'Master branch';
+echo '1.1 branch';
